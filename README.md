@@ -1,1 +1,1 @@
-Python module for generating passwords
+Python module for generating random passwords

@@ -15,7 +15,7 @@ if len(sys.argv) > 1:
         print 'Usage: %s [<length>]' % os.path.basename(sys.argv[0])
         sys.exit()
 else:
-    l = 12
+    l = 10
 
 for i in range(l):
     random.seed()
